@@ -1,0 +1,30 @@
+{
+  "title": "Eric-Fantillo-Portfolio-Resume-Site",
+  "name": "ericfantillo-resume",
+  "version": "1.0.0",
+  "description": "Simple, responsive, and mobile-friendly portfolio/resume website.",
+  "keywords": [
+    "css",
+    "bootstrap",
+    "sass",
+    "html",
+    "JavaScript",
+    "jQuery",
+    "responsive",
+    "portfolio",
+    "resume"
+  ],
+  "homepage": "https://GTTeric.github.io/",
+  "bugs": {
+    "url": "https://github.com/GTTeric/ericfantillo-resume/issues"
+  },
+  "license": "MIT",
+  "author": "Eric Fantillo",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "devicons": "^1.8.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.6",
+    "simple-line-icons": "^2.4.1"
+  }
+}
