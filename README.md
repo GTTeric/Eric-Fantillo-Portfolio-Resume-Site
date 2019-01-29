@@ -4,4 +4,4 @@ My portfolio/resume site was made using a combination of Bootstrap, HTML, JS, CS
 
 # How to View
 
-You should be able to access the site directly using [this link]() hosted on GitHub! :thumbsup:
+You should be able to access the site directly at http://www.ericfantillo.com/! :thumbsup:
