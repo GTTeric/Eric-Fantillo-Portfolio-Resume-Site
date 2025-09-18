@@ -1,7 +1,7 @@
 # About
 
-My portfolio/resume site was made using a combination of Bootstrap, HTML, JS, CSS, SCSS, and jQuery. With the help of a few open-source packages like magnific-popup, simple-line-icons, font-awesome, devicons and the site template made by [David Miller](http://davidmiller.io/).
+My portfolio/resume site was made using a combination of Bootstrap, HTML, JS, CSS, SCSS, and jQuery. With the help of a few open-source packages like magnific-popup, simple-line-icons, font-awesome, devicons, and the site template made by [David Miller](http://davidmiller.io/).
 
 # How to View
 
-You should be able to access the site directly at http://www.ericfantillo.com/! :thumbsup:
+You should be able to access the site directly at https://gtteric.github.io/Eric-Fantillo-Portfolio-Resume-Site/! :thumbsup:
